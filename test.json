@@ -1,0 +1,25 @@
+{
+  "Records": [
+    {
+      "cf": {
+        "request": {
+          "clientIp": "2001:0db8:85a3:0:0:8a2e:0370:7334",
+          "querystring": "size=large",
+          "uri": "/picture.jpg",
+          "method": "GET",
+          "headers": {
+            "host": [
+              {
+                "key": "Host",
+                "value": "www.domain.com"
+              }
+            ]
+          }
+        },
+        "config": {
+          "distributionId": "EXAMPLE"
+        }
+      }
+    }
+  ]
+}
